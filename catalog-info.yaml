@@ -8,5 +8,5 @@ metadata:
       - ember
       - scala
 spec:
-    owner: development-team
+    owner: group:development-team
     domain: capsule

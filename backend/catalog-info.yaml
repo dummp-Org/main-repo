@@ -7,7 +7,7 @@ metadata:
     tags:
         - scala
 spec:
-    owner: backend-team
+    owner: group:backend-team
     domain: capsule
     type: service
     lifecycle: production
