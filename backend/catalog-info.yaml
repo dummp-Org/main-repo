@@ -11,3 +11,4 @@ spec:
     domain: capsule
     type: service
     lifecycle: production
+    system: capsule
