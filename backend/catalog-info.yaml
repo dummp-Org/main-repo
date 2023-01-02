@@ -5,8 +5,9 @@ metadata:
     description: Backend/API for Capsule
     title: Capsule Backend
     tags:
-        - Scala
+        - scala
 spec:
     owner: backend-team
     domain: capsule
     type: service
+    lifecycle: production

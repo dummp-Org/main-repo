@@ -5,8 +5,8 @@ metadata:
     description: Primary catalog file for demo thingy
     title: Capsule
     tags:
-      - Ember
-      - Scala
+      - ember
+      - scala
 spec:
     owner: development-team
     domain: capsule

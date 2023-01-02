@@ -5,8 +5,9 @@ metadata:
     description: Backend/API for Capsule
     title: Capsule Frontend
     tags:
-        - Ember
+        - ember
 spec:
     owner: frontend-team
     domain: capsule
     type: service
+    lifecycle: production
