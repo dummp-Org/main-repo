@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+    name: capsule-fontend
+    description: Backend/API for Capsule
+    title: Capsule Frontend
+    tags:
+        - Ember
+spec:
+    owner: frontend-team
+    domain: capsule
+    type: service
